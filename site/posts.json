@@ -6,7 +6,7 @@
 		"image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
 		"status": "published",
 		"body": {
-			"time": 1583434509781,
+			"time": 1587514823286,
 			"blocks": [
 				{
 					"type": "paragraph",
@@ -37,7 +37,7 @@
 				{
 					"type": "paragraph",
 					"data": {
-						"text": "This animated television programming began as early as the 1960's. Networks realized they could rely on an audience of kids during that time-slot and focus efforts on advertising to that demographic, and so&nbsp;<i>Saturday Morning Cartoons</i>&nbsp;(and some epic commercials) were born."
+						"text": "This animated television programming began as early as the 1960's. Networks realized they could rely on an audience of kids every sixth day of the week, and&nbsp;<i>Saturday Morning Cartoons</i>&nbsp;(along with some epic commercials) were born."
 					}
 				}
 			],
@@ -50,8 +50,8 @@
 			"schema": "",
 			"data": ""
 		},
-		"created_at": "2020-03-05 10:55:09",
-		"updated_at": "2020-03-05 10:55:09"
+		"created_at": "2020-04-21 17:20:23",
+		"updated_at": "2020-04-21 17:20:23"
 	},
 	{
 		"title": "Contact",
