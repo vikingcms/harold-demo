@@ -1,6 +1,7 @@
 {
     "title": "My Awesome Viking Site",
-    "url": "http://localhost:8080",
+    "url": "https://harold.vikingcms.com",
+    "subfolder": "",
     "postRoute": "/post/{post}",
     "loopRoute": "posts"
 }

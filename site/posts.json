@@ -1,0 +1,372 @@
+[
+	{
+		"title": "The Sixth Day",
+		"excerpt": "When I was a wee lil lad I would sit in front of the television box every Saturday morning with a huge bowl of cereal as I enjoyed endless cartoon entertainment.",
+		"slug": "sixth-day",
+		"image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+		"status": "published",
+		"body": {
+			"time": 1583434509781,
+			"blocks": [
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "When I was a wee lad I would sit (criss cross applesauce) in front of the TV every Saturday morning. Cap'n Crunch and I enjoyed endless cartoon entertainment. The 2D action packed goodness sent colorful electrons from the tv screen, through my retinas, and straight into my occipital lobe."
+					}
+				},
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "What was a kid to do with all this excitement? Well... There was only one thing you could do, which was to binge in front of the TV for hours on end!"
+					}
+				},
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "Although during some intense TMNT battle-scenes you might find me jumping from couch to couch re-enacting some of the awesome fighting moves. What would you expect? After shoveling down 2 bowls of high-octane sugar powered cereal I was running on all cylinders!"
+					}
+				},
+				{
+					"type": "quote",
+					"data": {
+						"text": "It was a thrilling time to be alive",
+						"caption": "",
+						"alignment": "left"
+					}
+				},
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "This animated television programming began as early as the 1960's. Networks realized they could rely on an audience of kids during that time-slot and focus efforts on advertising to that demographic, and so&nbsp;<i>Saturday Morning Cartoons</i>&nbsp;(and some epic commercials) were born."
+					}
+				}
+			],
+			"version": "2.16.1"
+		},
+		"type": "post",
+		"meta": {
+			"title": "My Saturday Morning Ritual",
+			"description": "When I was a wee lil lad I would sit in front of the television box every Saturday morning with a huge bowl of cereal as I enjoyed endless cartoon entertainment.",
+			"schema": "",
+			"data": ""
+		},
+		"created_at": "2020-03-05 10:55:09",
+		"updated_at": "2020-03-05 10:55:09"
+	},
+	{
+		"title": "Contact",
+		"excerpt": "My Contact Page",
+		"slug": "contact",
+		"image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+		"status": "published",
+		"body": {
+			"time": 1582174171744,
+			"blocks": [
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "Welcome to the contact page. You can find various links to my socials below:"
+					}
+				},
+				{
+					"type": "list",
+					"data": {
+						"style": "ordered",
+						"items": [
+							"<a href=\"https://twitter.com/tnylea\">Twitter</a>",
+							"<a href=\"https://youtube.com/devdojo\">Youtube</a>",
+							"<a href=\"https://instagram.com/tnylea\">Instagram</a>",
+							"<a href=\"https://facebook.com/tnylea\">Facebook</a>"
+						]
+					}
+				}
+			],
+			"version": "2.16.1"
+		},
+		"type": "page",
+		"meta": {
+			"title": "",
+			"description": "",
+			"schema": "",
+			"data": ""
+		},
+		"created_at": "2020-02-19 20:49:31",
+		"updated_at": "2020-02-19 20:49:31"
+	},
+	{
+		"title": "About",
+		"excerpt": "",
+		"slug": "about",
+		"image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+		"status": "published",
+		"body": {
+			"time": 1582048494346,
+			"blocks": [
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "Heyo, my name is Harold. I hail from the Cathedral City where I write code like a dragon spitting fire. I like to design sites as well. I'm actually a fictional character created for VikingCMS, but that's ok, don't feel bad for me. I'll just feel happy for a brief moment if you pretend that I'm real."
+					}
+				},
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "I run a programmer club of norsemen where we all meetup, drink some coffee, and talk code. I enjoy solving new problems and learning new technologies."
+					}
+				},
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "I am also a family man. My wife Helga and I have 2 wonderful lads who keep me on my toes. In addition to spending time with my family I also enjoy Axe throwing. In fact I qualified last year for the national axe throwing olympics so I try and get as much practice as I can. I also enjoy long walks in the forest and brushing my beard."
+					}
+				},
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "Make sure to follow me on&nbsp;<a href=\"https://twitter.com/tnylea\">Twitter</a>&nbsp;or Checkout my&nbsp;<a href=\"https://www.youtube.com/devdojo\">Youtube Channel</a>. Thanks for visiting!"
+					}
+				}
+			],
+			"version": "2.16.1"
+		},
+		"type": "page",
+		"meta": {
+			"title": "",
+			"description": "",
+			"schema": "",
+			"data": ""
+		},
+		"created_at": "2020-02-18 09:54:54",
+		"updated_at": "2020-02-18 09:54:54"
+	},
+	{
+		"title": "The Almighty Trapper Keeper",
+		"excerpt": "Organization never felt so good. The satisfying sound of velcro is exactly what you got when you opened up your trapper keeper.",
+		"slug": "trapper-keeper",
+		"image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+		"status": "published",
+		"body": {
+			"time": 1581005152155,
+			"blocks": [
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "Organization never felt so good. The satisfying sound of velcro is exactly what you got when you opened up your trapper keeper."
+					}
+				},
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "These amazing organizational binders not only provided some colorful style but the plastic velcro flap prevented loose papers from spilling out onto the floor."
+					}
+				},
+				{
+					"type": "image",
+					"data": {
+						"file": {
+							"url": "/images/trapper-keeper.jpg"
+						},
+						"caption": "",
+						"withBorder": false,
+						"stretched": false,
+						"withBackground": false
+					}
+				},
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "Traditional binders held nothing when compared to the awesome trapper keeper.&nbsp;&nbsp;<b><i>All Hail The Almighty Trapper Keeper!</i></b>"
+					}
+				}
+			],
+			"version": "2.16.1"
+		},
+		"meta": {
+			"title": "The Almighty Trapper Keeper",
+			"description": "Organization never felt so good. The satisfying sound of velcro is exactly what you got when you opened up your trapper keeper.",
+			"schema": "",
+			"data": ""
+		},
+		"created_at": "2020-02-06 08:05:52",
+		"updated_at": "2020-02-06 08:05:52"
+	},
+	{
+		"title": "You'll Get Caught up in the Crossfire",
+		"excerpt": "Board games are good; however, this was not your typical board game. Crossfire made lightning shoot from the sky as you battled against your friends.",
+		"slug": "crossfire",
+		"image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+		"status": "published",
+		"body": {
+			"time": 1581004472859,
+			"blocks": [
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "Board games are good; however, this was not your typical board game. Crossfire made lightning shoot from the sky as you battled against your friends."
+					}
+				},
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "The crossfire board game was a game like no other. Each player would stand across each other holding a stationary gun and shoot medal balls at a puck. The objective was to get the puck in the opposing players goal."
+					}
+				},
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "This classic game was created in 1971 and the advertising behind the game was top-notch, because they produced some pretty epic commercials."
+					}
+				}
+			],
+			"version": "2.16.1"
+		},
+		"meta": {
+			"title": "You'll Get Caught up in the Crossfire",
+			"description": "Board games are good; however, this was not your typical board game. Crossfire made lightning shoot from the sky as you battled against your friends.",
+			"schema": "",
+			"data": ""
+		},
+		"created_at": "2020-02-06 07:54:32",
+		"updated_at": "2020-02-06 07:54:32"
+	},
+	{
+		"title": "Seriously Scary Good Books",
+		"excerpt": "The Goosebumps books written by R.L. Stine were some seriously scary good books. Classics like Say Cheese and Die, and Welcome to Deadhouse are just among a few.",
+		"slug": "goosebumps",
+		"image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+		"status": "published",
+		"body": {
+			"time": 1581003011427,
+			"blocks": [
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "The Goosebumps books written by R.L. Stine were some seriously scary good books. Classics like <i>Say Cheese and Die</i>, and <i>Welcome to Deadhouse</i> are just among a few."
+					}
+				},
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "No matter the season, you can always rely on a good Goosebumps tale to raise the hair on your arms and intrigue your cerebrum to continue reading."
+					}
+				},
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "Many other classics include Stay out of the Basement, Welcome to Camp Nightmare, and Return of the Mummy."
+					}
+				},
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "These classic books from the 90’s captivated the youth and helped many kids begin their journey of reading."
+					}
+				}
+			],
+			"version": "2.16.1"
+		},
+		"meta": {
+			"title": "Seriously Scary Good Books",
+			"description": "The Goosebumps books written by R.L. Stine were some seriously scary good books. Classics like Say Cheese and Die, and Welcome to Deadhouse are just among a few.",
+			"schema": "",
+			"data": ""
+		},
+		"created_at": "2020-02-06 07:30:11",
+		"updated_at": "2020-02-06 07:30:11"
+	},
+	{
+		"title": "The Game of Milk Caps",
+		"excerpt": "Pogs are popular where I come from. You can collect them, share them with your friends, or compete in a battle to win over more pogs.",
+		"slug": "pogs",
+		"image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+		"status": "published",
+		"body": {
+			"time": 1580941827498,
+			"blocks": [
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "Pogs were popular back in my day. They were these circular cardboard pieces with awesome designs and logos on them."
+					}
+				},
+				{
+					"type": "image",
+					"data": {
+						"file": {
+							"url": "/images/pogs.jpg"
+						},
+						"caption": "",
+						"withBorder": false,
+						"stretched": false,
+						"withBackground": false
+					}
+				},
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "There were many things you could do with pogs. You could collect them, admire them, trade amongst friends, or play them against each other."
+					}
+				},
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "Here’s how you’d play. Typically there are 2 players and you each stack a few pogs on top of each other. You then take turns trying to flip over the pogs using a Slammer, a circular medal pog (which were also very cool)."
+					}
+				},
+				{
+					"type": "image",
+					"data": {
+						"file": {
+							"url": "/images/slammers.jpg"
+						},
+						"caption": "",
+						"withBorder": false,
+						"stretched": false,
+						"withBackground": false
+					}
+				},
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "The rules were simple, the pogs you flipped over were yours for the taking. Flip them all over in the first try you win, only flip over 1, that one is yours and then it’s the other persons turn."
+					}
+				},
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "There were all different strategies on the best way to flip pogs, you could slam it down on the flat surface or you could jack knife it. Some kids had a natual knack for flipping over pogs while others were left being sad with a smaller pog collection."
+					}
+				},
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "In a way it was kind of like gambling for kids. You could choose to go all in with some of your favorite pogs and you would either leave victorious or leave empty handed."
+					}
+				},
+				{
+					"type": "quote",
+					"data": {
+						"text": "It is better to fight and fall than to live without Pogs",
+						"caption": "",
+						"alignment": "left"
+					}
+				},
+				{
+					"type": "paragraph",
+					"data": {
+						"text": "Pogs have an interesting origin story. Pogs started off as milk caps for a short time. Later these circular cardboard pieces were used on caps of Juice, one popular juice was the Passion fruit, Orange, and Guava juice (POG). Kids would collect these and started playing the game we know today as Pogs. Pretty cool, right?"
+					}
+				}
+			],
+			"version": "2.16.1"
+		},
+		"meta": {
+			"title": "The Game of Milk Caps",
+			"description": "Pogs are popular where I come from. You can collect them, share them with your friends, or compete in a battle to win over more pogs.",
+			"schema": "",
+			"data": ""
+		},
+		"created_at": "2020-02-05 14:30:27",
+		"updated_at": "2020-02-05 14:30:27"
+	}
+]

@@ -3,18 +3,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 	<url>
-		<loc>http://localhost:8080</loc>
-		<lastmod>2020-02-04T18:49:13-0800</lastmod>
+		<loc>https://harold.vikingcms.com</loc>
+		<lastmod>2020-04-21T16:09:37-0700</lastmod>
 		<priority>1.0</priority>
 	</url>
 	<url>
-		<loc>http://localhost:8080/posts/</loc>
-		<lastmod>2020-02-04T18:49:13-0800</lastmod>
+		<loc>https://harold.vikingcms.com/posts/</loc>
+		<lastmod>2020-04-21T16:09:37-0700</lastmod>
 		<priority>0.9</priority>
 	</url>
 	<url>
-		<loc>http://localhost:8080/saturday/</loc>
-		<lastmod>2020-02-04T17:53:10-0800</lastmod>
+		<loc>https://harold.vikingcms.com/sixth-day/</loc>
+		<lastmod>2020-03-05T10:55:09-0800</lastmod>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://harold.vikingcms.com/contact/</loc>
+		<lastmod>2020-02-19T20:49:31-0800</lastmod>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://harold.vikingcms.com/about/</loc>
+		<lastmod>2020-02-18T09:54:54-0800</lastmod>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://harold.vikingcms.com/trapper-keeper/</loc>
+		<lastmod>2020-02-06T08:05:52-0800</lastmod>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://harold.vikingcms.com/crossfire/</loc>
+		<lastmod>2020-02-06T07:54:32-0800</lastmod>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://harold.vikingcms.com/goosebumps/</loc>
+		<lastmod>2020-02-06T07:30:11-0800</lastmod>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://harold.vikingcms.com/pogs/</loc>
+		<lastmod>2020-02-05T14:30:27-0800</lastmod>
 		<priority>0.9</priority>
 	</url>
 
